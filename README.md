@@ -1,6 +1,6 @@
 ---
 
-# React Random Number Generator
+# Random Number Generator
 
 This is a simple and interactive random number generator web application built using React, Vite, and Material UI.
 Users can input a range of numbers to generate random values, with a default range if none is provided.
